@@ -398,7 +398,6 @@ const quizQuestions = [
       },
     ],
   },
-  // Add 10 more topics with 2 questions each.
 ];
 
 const loginButton = document.querySelector("#login-btn");
